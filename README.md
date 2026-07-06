@@ -32,6 +32,11 @@ Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://gi
 
 <p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></p>
 
+**Currently building:**
+
+- [Shiguchi](https://github.com/vedangps/shiguchi) — learn software architecture by building and breaking it. Deterministic rule engine, zero LLM calls, anonymous-first.
+- [AI Chest X-ray Assistant](https://github.com/vedangps/AI-Chest-Xray-Assistant) — pediatric pneumonia screening with Grad-CAM explainability and PDF report generation.
+
 **Recent activity:**
 
 <!--START_SECTION:activity-->
