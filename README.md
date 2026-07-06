@@ -20,7 +20,7 @@ Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://gi
 
 #### 🌐 Web Development
 
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,git,github&theme=dark" alt="React, Next.js, Git, GitHub" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,git,github&theme=dark" alt="React, Next.js, Git, GitHub" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></p>
 
 #### 🚀 Deployment & Tooling
 
