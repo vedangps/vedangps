@@ -4,6 +4,8 @@
 
 AI & Data Science student at Amrita Vishwa Vidyapeetham. I like taking models out of notebooks and putting them somewhere they have to actually work: a pipeline, an API, a page real people load. My focus is **computer vision**, image pipelines, model training, and the unglamorous data-cleaning work that decides whether any of it holds up outside a demo.
 
+Currently also building web products — full-stack with Next.js and Supabase, leaning into things with near-zero marginal cost and high craft.
+
 Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://github.com/vedangps)
 
 ## 🛠️ Tech stack
