@@ -1,10 +1,22 @@
 ### Vedang Singh
 
-AI & Data Science student at Amrita Vishwa Vidyapeetham. I like taking models out of notebooks and putting them somewhere they have to actually work — a pipeline, an API, a page real people load.
+AI & Data Science student at Amrita Vishwa Vidyapeetham. I like taking models out of notebooks and putting them somewhere they have to actually work — a pipeline, an API, a page real people load. Right now that means going deep on **computer vision**: image pipelines, model training, and the unglamorous data-cleaning work that decides whether any of it holds up outside a demo.
 
 **Right now:** building [shaguchi](https://github.com/vedangps/shaguchi), a Next.js coming-soon site with email capture (Resend), motion (Framer Motion), and a from-scratch Flappy Bird clone I spent way too long tuning for frame-rate-independent physics.
 
-**Stack I actually use:** Python · PyTorch · scikit-learn · pandas · SQL · TypeScript / Next.js
+**Focus:** Computer Vision — OpenCV, CNNs, YOLO, object detection/segmentation, image augmentation (Albumentations), preprocessing pipelines
+
+**Languages:** Python · TypeScript · SQL
+
+**ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face Transformers · NumPy · pandas
+
+**Data:** data cleaning & feature engineering · SQL/relational modeling · EDA & visualization (Matplotlib/Seaborn)
+
+**Deployment:** FastAPI · Streamlit · Docker
+
+**Platforms:** Jupyter · Google Colab · Kaggle · Git/GitHub Actions · Linux
+
+**Web:** Next.js · React
 
 Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://github.com/vedangps)
 
