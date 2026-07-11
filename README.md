@@ -1,16 +1,8 @@
 <div align="center">
-
-# Vedang Singh
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+%40+Amrita;computer+vision+%2F+deep+learning;training+models+that+ship%2C+not+just+demo)](https://git.io/typing-svg)
-
+<img src="./assets/banner.svg" width="100%" alt="Vedang Singh — AI & Data Science, Computer Vision, Deep Learning" />
 </div>
 
-AI & Data Science student at Amrita Vishwa Vidyapeetham. I like taking models out of notebooks and putting them somewhere they have to actually work: a pipeline, an API, a page real people load. Right now that means going deep on **computer vision**, image pipelines, model training, and the unglamorous data-cleaning work that decides whether any of it holds up outside a demo.
-
-**Right now:** building [shaguchi](https://github.com/vedangps/shaguchi), a Next.js coming-soon site with email capture (Resend), motion (Framer Motion), and a from-scratch Flappy Bird clone I spent way too long tuning for frame-rate-independent physics.
-
-**Focus:** Computer Vision, OpenCV, CNNs, YOLO, object detection/segmentation, image augmentation (Albumentations), preprocessing pipelines
+AI & Data Science student at Amrita Vishwa Vidyapeetham. I like taking models out of notebooks and putting them somewhere they have to actually work: a pipeline, an API, a page real people load. My focus is **computer vision**, image pipelines, model training, and the unglamorous data-cleaning work that decides whether any of it holds up outside a demo.
 
 Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://github.com/vedangps)
 
