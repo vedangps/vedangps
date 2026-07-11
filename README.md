@@ -22,6 +22,15 @@ Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://gi
 
 ---
 
+**Recent activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>pulled straight from the GitHub API by <a href="./.github/workflows/activity.yml">a GitHub Action</a> — nothing below this line is written by hand.</sub>
+
+---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/vedangps/vedangps/output/snake-dark.svg" alt="contribution snake" width="100%" />
 </div>
