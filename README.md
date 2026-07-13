@@ -6,7 +6,7 @@ AI & Data Science student at Amrita Vishwa Vidyapeetham. I like taking models ou
 
 Currently also building web products — full-stack with Next.js and Supabase, leaning into things with near-zero marginal cost and high craft.
 
-Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://github.com/vedangps)
+Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://github.com/vedangps) · [LinkedIn](https://linkedin.com/in/vedangps)
 
 ## 🛠️ Tech stack
 
