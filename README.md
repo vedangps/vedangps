@@ -37,10 +37,6 @@ Reach me: [vedangps@gmail.com](mailto:vedangps@gmail.com) · [GitHub](https://gi
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<sub>pulled straight from the GitHub API by <a href="./.github/workflows/activity.yml">a GitHub Action</a>, not written by hand.</sub>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/vedangps/vedangps/output/snake-dark.svg" alt="contribution snake" width="100%" />
 </div>
-
-<sub>the snake above eats my actual contribution graph, regenerated daily by <a href="./.github/workflows/snake.yml">a GitHub Action</a>, not staged.</sub>
